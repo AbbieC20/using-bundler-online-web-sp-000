@@ -1,6 +1,10 @@
 require_relative '../config/environment'
-Hashie
-Sinatra
+require 'Hashie'
+require 'Sinatra'
+require 'Octokit'
+require 'Pry'
+require 'AwesomePrint'
+
 Octokit
 Pry
 AwesomePrint
