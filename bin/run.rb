@@ -4,7 +4,3 @@ require 'Sinatra'
 require 'Octokit'
 require 'Pry'
 require 'AwesomePrint'
-
-Octokit
-Pry
-AwesomePrint
